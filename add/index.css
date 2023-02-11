@@ -1,0 +1,15 @@
+
+
+	div{
+	background-color: antiquewhite;
+}
+#main {   
+	height: 110%;
+	width: 110%;  
+  }
+  
+  th, tr {
+	color: rgb(0, 0, 0);
+	right: 100%;
+	column-count: 2;
+  }
